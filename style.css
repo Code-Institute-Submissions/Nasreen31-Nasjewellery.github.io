@@ -212,7 +212,7 @@ h1, h2, h3 {
     width:80%;
     overflow:hidden;
     position: relative;
-    padding: 90px 90px;
+    padding: 90px 100px;
   }
   #about-us h1 {
     font-size: 40px;
@@ -232,7 +232,7 @@ h1, h2, h3 {
     margin-top: 90px;
     width: 70%;
     height:90%;
-    left: 35%;
+    left: 15%;
     text-align:center;
   }
   #shop {
