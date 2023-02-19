@@ -44,7 +44,7 @@ It is about the shop and the indian jewellaries
 
 #![ringcollection](https://user-images.githubusercontent.com/117984168/218335288-cc49c6ea-75dd-4729-906e-b5a3155b07a2.png)
 #Forms
-#C:\Users\Nasreen Banu\OneDrive\Desktop\project2\html\images
+#![Screenshot (560)](https://user-images.githubusercontent.com/117984168/219981670-2a2acdd0-4cc9-419a-9247-2a16f24804a9.jpg)
 
 #Testing
 Responsiveness
