@@ -273,7 +273,7 @@ h1, h2, h3 {
     padding-top: 100%;
   }
 .left-about{
-  padding-left: 150px;
+  padding-left: 100px;
   
 }
 
@@ -345,7 +345,7 @@ margin-top: 15px;
     width:100%;
   }
   }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
   .navbar li {
     width: 150px;
     }
@@ -372,8 +372,8 @@ margin-top: 15px;
     left: 15%;
     }
     #about-us{
-      padding-top:80%;
-        width:auto;
+     padding-top:80%;
+     width:auto;
     }
     #about-us h1 
     {
@@ -384,7 +384,7 @@ margin-top: 15px;
     }
     #shop {
     height:20px;
-    width:600px;
+    width:100%;
     padding-top: 20px;
     }
     #show{
