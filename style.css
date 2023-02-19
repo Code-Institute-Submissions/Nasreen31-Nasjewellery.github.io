@@ -239,7 +239,7 @@ h1, h2, h3 {
   }
   #shop {
     height:100%;
-    width:100%;
+    width:auto;
     padding-top:70px;
   }
   #visit-shop {
@@ -343,7 +343,7 @@ margin-top: 15px;
   }
   #shop{
     height:100%;
-    width:100%;
+    width:auto;
   }
   }
 @media screen and (max-width: 700px) {
@@ -407,6 +407,7 @@ margin-top: 15px;
     margin-bottom: 20px;
     }
     .shop{
+      height:100%;
       width: auto;
     }
     #shop h1{
@@ -427,8 +428,8 @@ margin-top: 15px;
     font-size:5px;
     }
     footer{
-      height:50px;
-      width:auto;
+      height:60px;
+      width:100%;
     }
     footer a {
       font-size:30px;
