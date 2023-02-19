@@ -232,7 +232,7 @@ h1, h2, h3 {
     margin-top: 90px;
     width: 70%;
     height:90%;
-    left: 15%;
+    left: 35%;
     text-align:center;
   }
   #shop {
@@ -344,7 +344,7 @@ margin-top: 15px;
   }
 @media screen and (max-width: 800px) {
 .navbar li {
-width:100px;
+width:150px;
 }
 #logo{
 display:none
