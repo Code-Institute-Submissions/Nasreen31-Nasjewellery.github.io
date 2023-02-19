@@ -3,7 +3,8 @@
 
 NAS Jewellery is a Indian gold jewellery store founden in 2022 gives the finest designs in Gold Bangles, Gold Bracelets, Gold chains, Gold Necklaces,Gold Rings,Gold Earrings, Gold Pendants, Gold Haram.The majority of gold jewelry from India is 22 Karat gold.Twenty-two karat gold will be stamped “916,” “22K,” or “22c”.Twenty-two karat gold is 91.6% gold which is a very high purity of gold and the value is always more than 18k or 14k gold.
 
-# Indian-Jewellary![multi1](https://user-images.githubusercontent.com/117984168/218334196-5e7850d8-a2c4-4eb8-9a7e-66b32ea94780.png)
+# Indian-Jewellary
+![multi1](https://user-images.githubusercontent.com/117984168/218334196-5e7850d8-a2c4-4eb8-9a7e-66b32ea94780.png)
 # Feature
 .navbar
 Contains links to the Home,Jewellary collections and showroom will be responsive on all devices.
@@ -11,40 +12,39 @@ When the user hovers over "Jewellary collection" on the navbar the links to the 
 The navbar is fixed so that the user doesn't need to scroll up when wanting to go to another page.
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-#![nav](https://user-images.githubusercontent.com/117984168/218335051-1c643be0-11c9-4ac6-8ef2-bab734e37142.png)
+![nav](https://user-images.githubusercontent.com/117984168/218335051-1c643be0-11c9-4ac6-8ef2-bab734e37142.png)
 
 .Landing Page
 This section provides a big images of womens with jewellaries with a text overlay of "welcome to NAS Jewellary" to attaract the eye of the costumer.
 
-#![homepage2](https://user-images.githubusercontent.com/117984168/218334769-67c0b24f-db52-42a0-a33b-a732ba4adc7f.png)
+![homepage2](https://user-images.githubusercontent.com/117984168/218334769-67c0b24f-db52-42a0-a33b-a732ba4adc7f.png)
 
 .About Us
 It is about the shop and the indian jewellaries
 
-#![aboutuscollection](https://user-images.githubusercontent.com/117984168/218334812-27f47b6e-bfef-4a96-b827-2fefac84af37.png)
+![aboutuscollection](https://user-images.githubusercontent.com/117984168/218334812-27f47b6e-bfef-4a96-b827-2fefac84af37.png)
 .Showroom
 
-#![showroom1 jpg](https://user-images.githubusercontent.com/117984168/218334919-34113f6b-d60b-4789-ac3f-42483c211d3f.png)
+![showroom1 jpg](https://user-images.githubusercontent.com/117984168/218334919-34113f6b-d60b-4789-ac3f-42483c211d3f.png)
 
 .Footer
-#
-#![footercollection](https://user-images.githubusercontent.com/117984168/218334954-d8985753-4257-4ef1-9ffe-d7d95fd8d7cd.png)
+![footercollection](https://user-images.githubusercontent.com/117984168/218334954-d8985753-4257-4ef1-9ffe-d7d95fd8d7cd.png)
 
 #Jewellary gallery
 
-#![banglecollection](https://user-images.githubusercontent.com/117984168/218335174-3da6bbed-5250-45af-ae54-ce9298117780.png)
+![banglecollection](https://user-images.githubusercontent.com/117984168/218335174-3da6bbed-5250-45af-ae54-ce9298117780.png)
 
-#![chaincollection](https://user-images.githubusercontent.com/117984168/218335189-ca892a2c-6f09-4b4f-a4e2-bc9ff9486359.png)
+![chaincollection](https://user-images.githubusercontent.com/117984168/218335189-ca892a2c-6f09-4b4f-a4e2-bc9ff9486359.png)
 
-#![earringcollection](https://user-images.githubusercontent.com/117984168/218335237-8636c0d4-7643-4fd0-8986-67c59a583428.png)
+![earringcollection](https://user-images.githubusercontent.com/117984168/218335237-8636c0d4-7643-4fd0-8986-67c59a583428.png)
 
-#![Haramcollection](https://user-images.githubusercontent.com/117984168/218335259-3f243ede-d283-48a9-aed6-daadbeb27dd1.png)
+![Haramcollection](https://user-images.githubusercontent.com/117984168/218335259-3f243ede-d283-48a9-aed6-daadbeb27dd1.png)
 
-#![necklesscollection](https://user-images.githubusercontent.com/117984168/218335279-28f1328f-b2b7-4660-8a80-c594fb283727.png)
+![necklesscollection](https://user-images.githubusercontent.com/117984168/218335279-28f1328f-b2b7-4660-8a80-c594fb283727.png)
 
-#![ringcollection](https://user-images.githubusercontent.com/117984168/218335288-cc49c6ea-75dd-4729-906e-b5a3155b07a2.png)
+![ringcollection](https://user-images.githubusercontent.com/117984168/218335288-cc49c6ea-75dd-4729-906e-b5a3155b07a2.png)
 # Contact Us-Form
-#![Screenshot (560)](https://user-images.githubusercontent.com/117984168/219981670-2a2acdd0-4cc9-419a-9247-2a16f24804a9.jpg)
+![Screenshot (560)](https://user-images.githubusercontent.com/117984168/219981670-2a2acdd0-4cc9-419a-9247-2a16f24804a9.jpg)
 
 #Testing
 Responsiveness
