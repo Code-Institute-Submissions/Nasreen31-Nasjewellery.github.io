@@ -408,7 +408,7 @@ margin-top: 15px;
     }
     #shop {
     height:20px;
-    width:600px;
+    width:800px;
     padding-top:20px;
     }
     #shop h1{
@@ -430,6 +430,7 @@ margin-top: 15px;
     }
     footer{
       height:50px;
+        width:100%;
     }
     footer a {
       font-size:30px;
