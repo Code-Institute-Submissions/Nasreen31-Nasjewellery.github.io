@@ -105,7 +105,6 @@ h1, h2, h3 {
   
   .navbar a {
     padding: 25px 10px;
-    border-left: 1px solid white;
     text-decoration:none;
     color:black;
     display: block;
@@ -345,7 +344,7 @@ margin-top: 15px;
   }
 @media screen and (max-width: 800px) {
 .navbar li {
-width:150px;
+width:100px;
 }
 #logo{
 display:none
